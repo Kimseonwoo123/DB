@@ -12,6 +12,7 @@ namespace DB_Kimseonwoo
         {
             Console.Write("Hello World!");
             Console.Write("Hello World!");
+            Console.Write("Hello World!");
             Console.Read();
         }
     }
